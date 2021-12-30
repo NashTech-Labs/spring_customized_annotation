@@ -1,0 +1,5 @@
+com/knoldus/model/Color.class
+com/knoldus/customizedAnnotations/ColorValidation.class
+com/knoldus/customizedAnnotations/ColorValidator.class
+com/knoldus/controller/ColorController.class
+com/knoldus/controller/ColorExceptionHandler.class
